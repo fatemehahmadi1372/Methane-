@@ -1,0 +1,79 @@
+Duan, Z., Scheutz, C., Kjeldsen, P. (2022). Mitigation of methane emissions from three Danish landfills using different biocover systems. Waste Manage, 149, 156-167.
+Lebrero, R., Pérez, R., & Muñoz, R. (2011). Quantification of biofilter pressure drop: Influence of organic and inorganic loading. Bio Technol. 102(3), 3081-3087.
+Wilms, R., Sass, H., Köpke, B., Cypionka, H., Engelen, B. (2007). Methane and sulfate profiles within the sub-surface of a tidal flat are reflected by the distribution of sulfate-reducing bacteria and methanogenic archaea. FEMS Microbiol Ecol. 59, 611–621.
+Strong, P. J., Laycock, B., Mahamud, S. N. S., Jensen, P. D., Lant, P. A., Tyson, G., Pratt, S. (2016). The opportunity for high-performance biomaterials from methane. Microorganisms. 4(1), 11-20. 
+Wilshusen, J.H., Hettiaratchi, J.P.A., De Visscher, A., Saint-Fort, R., (2004). Methane oxidation and formation of EPS in compost: effect of oxygen concentration. Environ. Pollut. 129 (2), 305–314.
+Rose, J.L., Mahler, C.F., Izzo, R.L.D., (2012). Comparison of the methane oxidation rate in four media. Revis Brasil De Cien Do Solo 36 (3), 803–812.
+Duan, Z., Hansen, P. O. C. R., Scheutz, C., Kjeldsen, P. (2021). Mitigation of methane and trace gas emissions through a large-scale active biofilter system at Glatved landfill, Denmark. Waste Management, 126, 367-376.
+Woertz, J., van Heiningen, W., van Eekert, M., Kraakman, N., Kinney, K., van Groenestijn, J., (2002). Dynamic bioreactor operation: effects of packing material and mite predation on toluene removal from off-gas. Appl. Microbiol. Biotechnol. 58 (5), 690–694.
+Verbeke, T.J., Dedysh, S.N., Dunfield, P.F., (2018). Methanotrophy in acidic environments, including northern wetlands. In: Timmis, K.N. (Ed.), Handbook of Hydrocarbon and Lipid Microbiology. Springer-Verlag. Berlin.
+Syed, R., Saggar, S., Tate, K., Rehm, B.H.A., Berben, P., (2017). Assessing the performance of floating biofilters for oxidation of methane from dairy effluent ponds. J. Environ. Qual. 46 (2), 272–280.
+Nikiema, J., Bibeau, L., Lavoie, J., Brzezinski, R., Vigneux, J., Heitz, M., (2005). Biofiltration of methane: an experimental study. Chem. Eng. J. 113 (2–3), 111–117.
+Melse, R.W., van der Werf, A.W., (2005). Biofiltration for mitigation of methane emission from animal husbandry. Environ. Sci. Technol. 39 (14), 5460–5468.
+Berger, J., Fornes, L.V., Ott, C., Jager, J., Wawra, B., Zanke, U., (2005). Methane oxidation in a landfill cover with capillary barrier. Waste Manage. (Oxford) 25 (4), 369–373.
+du Plessis, C.A., Strauss, J.M., Sebapalo, E.M.T., Riedel, K.-H.J., (2003). Empirical model for methane oxidation using a composted pine bark biofilter. Fuel 82 (11), 1359–1365.
+Hilger, H.A., Wollum, A.G., Barlaz, M.A., (2000). Landfill methane oxidation response to vegetation, fertilization, and liming. J. Environ. Qual. 29 (1), 324–334.
+De Visscher, A., Schippers, M., Van Cleemput, O., (2001). Short-term kinetic response of enhanced methane oxidation in landfill cover soils to environmental factors. Biol. Fertil. Soils 33 (3), 231–237.
+Zarei, M., Bayati, M. R., Ebrahimi-Nik, M., Rohani, A., Hejazi, B. (2023). Modelling the removal efficiency of hydrogen sulfide from biogas in a biofilter using multiple linear regression and support vector machines. Journal of Cleaner Production, 404, 136965.
+Yao, X. Z., Chu, Y. X., Wang, C., Li, H. J., Kang, Y. R., He, R. (2019). Enhanced removal of methanethiol and its conversion products in the presence of methane in biofilters. Journal of Cleaner Production, 215, 75-83.
+Wu, X., Lin, Y., Wang, Y., Wu, S., Yang, C. (2023). Volatile organic compound removal via biofiltration: Influences, challenges, and strategies. Chemical Engineering Journal, 144420.
+Vikrant, K., Kailasa, S. K., Tsang, D. C., Lee, S. S., Kumar, P., Giri, B. S., Kim, K. H. (2018). Biofiltration of hydrogen sulfide: Trends and challenges. Journal of cleaner production, 187, 131-147.
+Valenzuela-Heredia, D., Aroca, G. (2023). Methane biofiltration for the treatment of a simulated diluted biogas emission containing ammonia and hydrogen sulfide. Chemical Engineering Journal, 143704.
+Choi, H., Ryu, H. W., Cho, K. S. (2018). Biocomplex textile as an alternative daily cover for the simultaneous mitigation of methane and malodorous compounds. Waste Management, 72, 339-348.
+Sun, M. T., Zhao, Y. Z., Yang, Z. M., Shi, X. S., Wang, L., Dai, M., Guo, R. B. (2020). Methane elimination using biofiltration packed with fly ash ceramsite as support material. Frontiers in Bioengineering and Biotechnology, 8, 351.
+Sheoran, A., Sheoran, V., Poonia, P. (2010). Biodegradation of benzene, toluene, and xylene (BTX) in liquid culture and in soil by Bacillus subtilis and Pseudomonas aeruginosa strains. Journal of Environmental Biology, 31(4), 529-536.
+Duan, Z., Scheutz, C., Kjeldsen, P. (2022). Mitigation of methane emissions from three Danish landfills using different biocover systems. Waste Manage, 149, 156-167.
+Lebrero, R., Pérez, R., & Muñoz, R. (2011). Quantification of biofilter pressure drop: Influence of organic and inorganic loading. Bio Technol. 102(3), 3081-3087.
+Wilms, R., Sass, H., Köpke, B., Cypionka, H., Engelen, B. (2007). Methane and sulfate profiles within the sub-surface of a tidal flat are reflected by the distribution of sulfate-reducing bacteria and methanogenic archaea. FEMS Microbiol Ecol. 59, 611–621.
+Strong, P. J., Laycock, B., Mahamud, S. N. S., Jensen, P. D., Lant, P. A., Tyson, G., Pratt, S. (2016). The opportunity for high-performance biomaterials from methane. Microorganisms. 4(1), 11-20.
+Wilshusen, J.H., Hettiaratchi, J.P.A., De Visscher, A., Saint-Fort, R., (2004). Methane oxidation and formation of EPS in compost: effect of oxygen concentration. Environ. Pollut. 129 (2), 305–314.
+Rose, J.L., Mahler, C.F., Izzo, R.L.D., (2012). Comparison of the methane oxidation rate in four media. Revis Brasil De Cien Do Solo 36 (3), 803–812.
+Duan, Z., Hansen, P. O. C. R., Scheutz, C., Kjeldsen, P. (2021). Mitigation of methane and trace gas emissions through a large-scale active biofilter system at Glatved landfill, Denmark. Waste Management, 126, 367-376.
+Woertz, J., van Heiningen, W., van Eekert, M., Kraakman, N., Kinney, K., van Groenestijn, J., (2002). Dynamic bioreactor operation: effects of packing material and mite predation on toluene removal from off-gas. Appl. Microbiol. Biotechnol. 58 (5), 690–694.
+Verbeke, T.J., Dedysh, S.N., Dunfield, P.F., (2018). Methanotrophy in acidic environments, including northern wetlands. In: Timmis, K.N. (Ed.), Handbook of Hydrocarbon and Lipid Microbiology. Springer-Verlag. Berlin.
+Syed, R., Saggar, S., Tate, K., Rehm, B.H.A., Berben, P., (2017). Assessing the performance of floating biofilters for oxidation of methane from dairy effluent ponds. J. Environ. Qual. 46 (2), 272–280.
+Nikiema, J., Bibeau, L., Lavoie, J., Brzezinski, R., Vigneux, J., Heitz, M., (2005). Biofiltration of methane: an experimental study. Chem. Eng. J. 113 (2–3), 111–117.
+Melse, R.W., van der Werf, A.W., (2005). Biofiltration for mitigation of methane emission from animal husbandry. Environ. Sci. Technol. 39 (14), 5460–5468.
+Berger, J., Fornes, L.V., Ott, C., Jager, J., Wawra, B., Zanke, U., (2005). Methane oxidation in a landfill cover with capillary barrier. Waste Manage. (Oxford) 25 (4), 369–373.
+du Plessis, C.A., Strauss, J.M., Sebapalo, E.M.T., Riedel, K.-H.J., (2003). Empirical model for methane oxidation using a composted pine bark biofilter. Fuel 82 (11), 1359–1365.
+Hilger, H.A., Wollum, A.G., Barlaz, M.A., (2000). Landfill methane oxidation response to vegetation, fertilization, and liming. J. Environ. Qual. 29 (1), 324–334.
+De Visscher, A., Schippers, M., Van Cleemput, O., (2001). Short-term kinetic response of enhanced methane oxidation in landfill cover soils to environmental factors. Biol. Fertil. Soils 33 (3), 231–237.
+Zarei, M., Bayati, M. R., Ebrahimi-Nik, M., Rohani, A., Hejazi, B. (2023). Modelling the removal efficiency of hydrogen sulfide from biogas in a biofilter using multiple linear regression and support vector machines. Journal of Cleaner Production, 404, 136965.
+Yao, X. Z., Chu, Y. X., Wang, C., Li, H. J., Kang, Y. R., He, R. (2019). Enhanced removal of methanethiol and its conversion products in the presence of methane in biofilters. Journal of Cleaner Production, 215, 75-83.
+Wu, X., Lin, Y., Wang, Y., Wu, S., Yang, C. (2023). Volatile organic compound removal via biofiltration: Influences, challenges, and strategies. Chemical Engineering Journal, 144420.
+Vikrant, K., Kailasa, S. K., Tsang, D. C., Lee, S. S., Kumar, P., Giri, B. S., Kim, K. H. (2018). Biofiltration of hydrogen sulfide: Trends and challenges. Journal of cleaner production, 187, 131-147.
+Valenzuela-Heredia, D., Aroca, G. (2023). Methane biofiltration for the treatment of a simulated diluted biogas emission containing ammonia and hydrogen sulfide. Chemical Engineering Journal, 143704.
+Choi, H., Ryu, H. W., Cho, K. S. (2018). Biocomplex textile as an alternative daily cover for the simultaneous mitigation of methane and malodorous compounds. Waste Management, 72, 339-348.
+Sun, M. T., Zhao, Y. Z., Yang, Z. M., Shi, X. S., Wang, L., Dai, M., Guo, R. B. (2020). Methane elimination using biofiltration packed with fly ash ceramsite as support material. Frontiers in Bioengineering and Bi
+Sierra-Alvarez, R., Mandal, S., Sahle-Demessie, E., Field, J. A. (2009). Methanotrophic inhibition by chlorinated ethenes: inhibitor structure-activity relationship. Water research, 43(16), 4059-4067.
+Salmeron-Alcocer, A., Galindo, E., Guisa, A., Thalasso, F. (2014). A comparison of different bacterial inocula for starting up aerobic biotrickling filters used for removal of methane under transient conditions. Bioresource technology, 151, 12-18.
+Rao, Y., Kim, Y., Kim, M., Jeong, S. Y. (2013). Performance of microbial filter media in a biotrickling filter for hydrogen sulfide removal. Journal of environmental science and health. Part A, Toxic/hazardous substances & environmental engineering, 48(10), 1209-1217.
+Quintana-Najera, J. C., Magaña-Plaza, J. A., Loera, O., Poggi-Varaldo, H. M. (2016). Methane biofiltration: State-of-the-art, applications, and new perspectives. Environ Sci Pollut Res Int, 23(24), 24449-24464.
+Pérez-García, M., Valdelvira, J. J., & Cantero, F. J. (2018). Biogas sweetening and green energy recovery in a novel hybrid anaerobic/cyclic aerobic bioreactor. Journal of Cleaner Production, 202, 702-712.
+Park, S. J., Lee, J. H., Park, T. J., & Lee, W. H. (2019). A case study on H2S and NH3 removal from biogas in a biotrickling filter using sulfur-oxidizing bacteria and its bacterial community structure. Journal of environmental management, 241, 475-484.31. Okpokwasili, G. C., Anucha, C. E., (2011). Microbial degradation of petroleum hydrocarbons in a tropical mangrove ecosystem. Global Journal of Environmental Sciences, 10(1), 57-64.
+Olgun, A., & Ataberk, S. (2018). Removal of siloxanes from landfill gas using biotrickling filters: A review. Waste management, 76, 39-51.
+Muñoz, R., & Lebrero, R. (2017). Biotrickling filters: an overview. Critical Reviews in Biotechnology, 37(2), 187-204.
+Muñoz, R., Durán, M. A., Baeza, J. A., & Guieysse, B. (2007). Effect of light on performance of a biotrickling filter removing methanol vapors. Water Research, 41(11), 2370-2376.
+Miller, L. G., Baesman, S. M., Kirshtein, J., Voytek, M. A., Oremland, R. S., (2013). A biogeochemical and genetic survey of acetylene fermentation by environmental samples and bacterial isolates. Geomicrobiology Journal, 30(6), 501-516.
+Liu, Y., Sun, J., Liu, L., Ma, Z., Wei, W., & Jia, H. (2021). Microbial methane oxidation coupled to denitrification and its potential for climate change mitigation in an intensively farmed freshwater sediment. Frontiers in Microbiology, 11, 3396.
+Lopes, A. R., Manaia, C. M., Nunes, O. C., & Brix, H. (2015). Use of constructed wetlands for treating hydroponic wastewater. Ecological Engineering, 83, 352-360.
+Liu, Y., Xue, Y., Qian, G., & Ye, W. (2017). Advances in microbial strategies for simultaneous hydrogen sulfide and ammonia removal from wastewater. Bioresource Technology, 224, 1-11.
+Li, Y., He, C., Liu, Y., Zhong, L., Zhu, J., & Guo, G. (2016). Performance of a biotrickling filter for treating high concentration of hydrogen sulfide under acidic conditions. Bioresource Technology, 206, 211-218.
+Lebrero, R., Estrada, J. M., Quijano, G., & Munoz, R. (2012). A review on the performance of conventional and alternative technologies for upgrading biogas to biomethane. Environmental Progress & Sustainable Energy, 31(2), 159-174.
+Kennes, C., & Thalasso, F. (2019). Microbial strategies for the anaerobic degradation of methane. Frontiers in Microbiology, 10, 1872.
+Kang, C., Li, W., Fan, J., Chang, J., Fan, Y., & Yang, C. (2019). Methane and carbon dioxide biofiltration performance and methanotrophic community diversity analysis of a biofilter system treating landfill gas. Environmental Technology, 40(6), 684-694.
+Ju, F., & Zhang, T. (2015). Bacterial assembly and temporal dynamics in activated sludge of a full-scale municipal wastewater treatment plant. The ISME journal, 9(3), 683-695.
+Jia, X., Yang, C., & Wu, S. (2013). Insights into the microbial community and its succession of a biofilter for the removal of multiple gaseous pollutants. Bioresource Technology, 147, 202-209.
+Hwang, J. H., Kwon, M. A., Park, J. H., & Song, Y. C. (2014). Methane biofiltration for the control of malodor from a landfill site: effects of inorganic gaseous compounds on methane oxidation. Environmental Science and Pollution Research, 21(5), 3811-3818.
+Ho, K. L., Lee, D. J., & Huang, C. (2014). Application of molecular biological tools to assess microbial community structure changes in a membrane bioreactor system during sludge bulking. Bioresource technology, 165, 77-84.
+Han, J. W., Choi, E., & Kim, D. Y. (2017). A review on the recent progress in electro-biological technologies for hydrogen production from organic wastes. Journal of Environmental Management, 191, 42-55.
+Guo, L., Lin, H., & Ye, L. (2019). Microbial community structures and functions of wastewater treatment systems in plateau and cold region: A review. Bioresource technology, 291, 121913.
+Guadie, A., & Yngard, R. A. (2015). Feasibility of chemical phosphorus recovery from source-separated urine. Environmental technology reviews, 4(1), 69-92.
+Gómez-Brandón, M., Lores, M., Insam, H., & Domínguez, J. (2012). Strategies for recycling and valorization of sewage sludge. Applied Microbiology and Biotechnology, 95(2), 275-286.
+Giordano, C., Frunzo, L., Raganati, F., & Pirozzi, F. (2016). Biohythane production from food waste by dark fermentation coupled with anaerobic digestion process. Bioresource Technology, 219, 340-347.
+Gadd, G. M. (2010). Metals, minerals and microbes: geomicrobiology and bioremediation. Microbiology, 156(3), 609-643.
+Escudero, L. V., & Veiga, M. C. (2017). Lactic acid production from recycled paper sludge using acid-tolerant Bacillus coagulans. Bioresource technology, 243, 947-953.
+Eken, K., Ebrahimi-Nik, M., & Sivakumar, M. (2021). Application of biofilters for the removal of volatile organic compounds (VOCs) from air streams: A comprehensive review. Journal of Environmental Management, 277, 111460.
+Dijkman, H., Wesseling, J., & Van Lier, J. B. (2013). Sludge to energy (STE): Technical and energetic evaluation of high pressure steam gasification of sewage sludge. Water Research, 47(13), 4501-4509.
+Dhar, B. R., Bastviken, D., Gatterbauer, K., & Chakraborty, S. (2014). Is the Indian subcontinent a biogenic source of trace gases? Journal of Geophysical Research: Atmospheres, 119(9), 5675-5685.
+Oshiki, M., Onuki, M., & Satoh, H. (2018). Methane oxidation linked to chlorite dismutation in paddy soil. The ISME journal, 12(8), 1962-1973.

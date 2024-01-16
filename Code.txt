@@ -1,0 +1,31 @@
+library(bibliometrix)  
+library(pander)  
+library(knitr)
+library(kableExtra)
+library(ggplot2)
+library(bibliometrixData)
+Scopus collection data from the package
+data("scientometrics")
+# M=convert2df(file='scopus.bib',format='bibtex',dbsource = 'scopus')#convert
+# external data to data frame
+# Descriptive analysis
+M = scientometrics  #just to reuse the other code
+res1 = biblioAnalysis(M, sep = ";")
+s1 = summary(res1, k = 10, pause = FALSE, verbose = FALSE)
+
+d1 = s1$MainInformationDF  #main information 
+d2 = s1$MostProdAuthors  #Most productive Authors 
+d3 = s1$MostCitedPapers  #most cited papers 
+pander(d1, caption = "Summary Information")
+s1$MostProdAuthors
+pander(d2, caption = "Most Productive Authors", table.split = Inf)
+pander(d3, caption = "Most Cited Papers")
+p1 = plot(res1, pause = FALSE)
+etmatrix2 = biblioNetwork(M, analysis = "co-occurrences", network = "keywords",
+    sep = ";")
+
+# Plot the network
+net = networkPlot(Netmatrix2, normalize = "association", weighted = T, n = 50, Title = "Keyword Co-occurrences",
+    type = "fruchterman", size = T, edgesize = 5, labelsize = 0.7)
+
+
